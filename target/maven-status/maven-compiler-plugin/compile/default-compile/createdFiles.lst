@@ -1,0 +1,6 @@
+com\infotech\batch\reader\MyItemReader.class
+com\infotech\batch\config\BatchConfig.class
+com\infotech\batch\tasklet\TaskletStep.class
+com\infotech\batch\joblauncher\JobLauncherController.class
+com\infotech\batch\SpringBootBatchTaskletApplication.class
+com\infotech\batch\writer\MyItemWriter.class
